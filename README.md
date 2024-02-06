@@ -1,4 +1,10 @@
-### Hi there 👋
+### - 🔭 I’m currently working on my portfolio. For now some example codes...
+
+https://github.com/sergiourzedojunior/SVM_SuportVectorMachine
+
+https://github.com/sergiourzedojunior/logistica
+
+https://github.com/sergiourzedojunior/regressao_linear
 
 <!--
 **sergiourzedojunior/sergiourzedojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
