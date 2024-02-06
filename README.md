@@ -6,6 +6,8 @@ https://github.com/sergiourzedojunior/logistica
 
 https://github.com/sergiourzedojunior/regressao_linear
 
+https://github.com/sergiourzedojunior/decisiontree
+
 <!--
 **sergiourzedojunior/sergiourzedojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
