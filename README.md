@@ -15,6 +15,9 @@ https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    2. extract tar to json - extract_tar.ipynb
    3. transform json to sqlite - json_to_sql.ipynb
    4. creat a db master with the .db created in step 3 - master_db.ipynb
+   ### alternative steps
+   1. https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data
+   2. kaggle_Code_snippet_to_read_the_files.ipynb
 
    
 <!--
