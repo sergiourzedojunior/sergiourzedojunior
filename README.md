@@ -9,6 +9,7 @@ https://github.com/sergiourzedojunior/regressao_linear
 https://github.com/sergiourzedojunior/decisiontree
 
 # - projeto Yelp SQL Data Science
+https://github.com/sergiourzedojunior/yelp_sql_datascience.git
 ## - steps
 1. https://www.yelp.com/dataset/download
 2. extract tar to json - extract_tar.ipynb
