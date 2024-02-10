@@ -8,6 +8,14 @@ https://github.com/sergiourzedojunior/regressao_linear
 
 https://github.com/sergiourzedojunior/decisiontree
 
+# - projeto Yelp SQL Data Science
+## - steps
+1. https://www.yelp.com/dataset/download
+2. extract tar to json - extract_tar.ipynb
+3. transform json to sqlite - json_to_sql.ipynb
+4. creat a db master with the .db created in step 3 - master_db.ipynb
+
+   
 <!--
 **sergiourzedojunior/sergiourzedojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
