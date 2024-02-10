@@ -10,7 +10,7 @@ https://github.com/sergiourzedojunior/decisiontree
 
 # - projeto Yelp SQL Data Science
 https://github.com/sergiourzedojunior/yelp_sql_datascience.git
-   ## - steps
+   . ## - steps
    1. https://www.yelp.com/dataset/download
    2. extract tar to json - extract_tar.ipynb
    3. transform json to sqlite - json_to_sql.ipynb
