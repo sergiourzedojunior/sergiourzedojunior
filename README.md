@@ -1,13 +1,3 @@
-### - 🔭 I’m currently working on my portfolio. For now some example codes...
-
-https://github.com/sergiourzedojunior/SVM_SuportVectorMachine
-
-https://github.com/sergiourzedojunior/logistica
-
-https://github.com/sergiourzedojunior/regressao_linear
-
-https://github.com/sergiourzedojunior/decisiontree
-
 # - projeto Yelp SQL Data Science
 https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    ### steps
@@ -21,6 +11,17 @@ https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    ### analysis and design
    1. general analysis of Yelp tables (SQLite and Python) - SQLite.sql, distribuicao_diasdasemana.ipynb
    2. project to cluster star ratings of shopping centers in Santa Barbara, CA - modelo_kmeans.ipynb
+
+
+### - 🔭 I’m currently working on my portfolio. For now some example codes...
+
+https://github.com/sergiourzedojunior/SVM_SuportVectorMachine
+
+https://github.com/sergiourzedojunior/logistica
+
+https://github.com/sergiourzedojunior/regressao_linear
+
+https://github.com/sergiourzedojunior/decisiontree
    
 <!--
 **sergiourzedojunior/sergiourzedojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
