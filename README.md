@@ -14,6 +14,9 @@ https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    2. project to cluster star ratings of shopping centers in Santa Barbara, CA - modelo_kmeans.ipynb
 
 
+
+
+
 ### - 🔭 I’m currently working on my portfolio. For now some example codes...
 
 https://github.com/sergiourzedojunior/SVM_SuportVectorMachine
