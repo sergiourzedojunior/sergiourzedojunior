@@ -1,4 +1,5 @@
 # - projeto Yelp SQL Data Science
+![cluster_map](map.jpg)
 https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    ### steps
    1. https://www.yelp.com/dataset/download
