@@ -18,7 +18,9 @@ https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    ### alternative steps
    1. https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data
    2. kaggle_Code_snippet_to_read_the_files.ipynb
-
+   ### analysis and design
+   1. general analysis of Yelp tables (SQLite and Python) - SQLite.sql, distribuicao_diasdasemana.ipynb
+   2. project to cluster star ratings of shopping centers in Santa Barbara, CA - modelo_kmeans.ipynb
    
 <!--
 **sergiourzedojunior/sergiourzedojunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
