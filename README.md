@@ -54,6 +54,9 @@ https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    1. general analysis of Yelp tables (SQLite and Python) - SQLite.sql, distribuicao_diasdasemana.ipynb
    2. project to cluster star ratings of shopping centers in Santa Barbara, CA - modelo_kmeans.ipynb
 
+# - modelagem de dados e profile dados abertos (.gov) ANP - Diesel
+https://github.com/sergiourzedojunior/dados_ANP_Diesel.git
+
 
 
 
