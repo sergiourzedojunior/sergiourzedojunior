@@ -39,7 +39,7 @@
 
 <b> ⚡ Main Repositories</b>:
 
-# - projeto Yelp SQL Data Science
+# 1 - projeto Yelp SQL Data Science
 https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    ### steps
    1. https://www.yelp.com/dataset/download
@@ -54,7 +54,7 @@ https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    1. general analysis of Yelp tables (SQLite and Python) - SQLite.sql, distribuicao_diasdasemana.ipynb
    2. project to cluster star ratings of shopping centers in Santa Barbara, CA - modelo_kmeans.ipynb
 
-# - modelagem de dados e profile dados abertos (.gov) ANP - Diesel
+# 2 - modelagem de dados e profile dados abertos (.gov) ANP - Diesel
 https://github.com/sergiourzedojunior/dados_ANP_Diesel.git
 
 
