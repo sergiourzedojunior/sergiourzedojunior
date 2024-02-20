@@ -57,6 +57,10 @@ https://github.com/sergiourzedojunior/yelp_sql_datascience.git
 # 2 - modelagem de dados e profile dados abertos (.gov) ANP - Diesel
 https://github.com/sergiourzedojunior/dados_ANP_Diesel.git
 
+# 3 - mercado_B2B_Diesel_Prophet_predições
+https://github.com/sergiourzedojunior/mercado_B2B_Diesel_Prophet_predictions.git
+
+
 
 
 
