@@ -54,13 +54,14 @@ https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    1. general analysis of Yelp tables (SQLite and Python) - SQLite.sql, distribuicao_diasdasemana.ipynb
    2. project to cluster star ratings of shopping centers in Santa Barbara, CA - modelo_kmeans.ipynb
 
-# 2 - modelagem de dados e profile dados abertos (.gov) ANP - Diesel
+# 2 - modelagem de dados e profile - dados abertos (.gov) ANP - Diesel
 https://github.com/sergiourzedojunior/dados_ANP_Diesel.git
 
 # 3 - mercado_B2B_Diesel_Prophet_predições
 https://github.com/sergiourzedojunior/mercado_B2B_Diesel_Prophet_predictions.git
 
-
+# 4 - Mercado de Usinas sucroalcooleiras paara consumo de Diesel
+https://github.com/sergiourzedojunior/usinas_MAPA.git
 
 
 
