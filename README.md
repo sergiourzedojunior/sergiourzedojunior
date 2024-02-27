@@ -63,8 +63,8 @@ https://github.com/sergiourzedojunior/mercado_B2B_Diesel_Prophet_predictions.git
 # 4 - Mercado de Usinas sucroalcooleiras paara consumo de Diesel
 https://github.com/sergiourzedojunior/usinas_MAPA.git
 
-
-
+# 5 - consulting project to help segment shopping centers based on google analytics data
+https://github.com/sergiourzedojunior/estab_com_clustering.git
 
 ### - 🔭 I’m currently working on my portfolio. For now some example codes...
 
