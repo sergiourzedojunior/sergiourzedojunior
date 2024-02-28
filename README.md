@@ -66,6 +66,9 @@ https://github.com/sergiourzedojunior/usinas_MAPA.git
 # 5 - consulting project to help segment shopping centers based on google analytics data
 https://github.com/sergiourzedojunior/estab_com_clustering.git
 
+![cluster](newplot.png)
+![cluster_v1](newplot_v1.png)
+
 ### - 🔭 I’m currently working on my portfolio. For now some example codes...
 
 https://github.com/sergiourzedojunior/SVM_SuportVectorMachine
