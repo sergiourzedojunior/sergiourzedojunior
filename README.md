@@ -69,6 +69,11 @@ https://github.com/sergiourzedojunior/estab_com_clustering.git
 ![cluster](newplot.png)
 ![cluster_v1](newplot_v1.png)
 
+
+# 6 - department store clothing retail 
+### - database of garments and their categories, stores, geography, customers and transactions. python (VSCode) and pyspark codes (databricks) were used for the analysis
+https://github.com/sergiourzedojunior/department_store_clothing_retail.git
+
 ### - 🔭 I’m currently working on my portfolio. For now some example codes...
 
 https://github.com/sergiourzedojunior/SVM_SuportVectorMachine
