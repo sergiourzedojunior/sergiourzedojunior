@@ -39,6 +39,7 @@
 
 <b> ⚡ Main Repositories</b>:
 
+![diagram](tabela.png)
 # 1 - aplicação da técnica de Análise Fatorial para seguradoras
 https://github.com/sergiourzedojunior/financ_KPI.git
 ## Resumo em pontos-chave sobre a Análise Fatorial (AF):
