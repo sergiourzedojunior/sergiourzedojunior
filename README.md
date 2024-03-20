@@ -39,7 +39,32 @@
 
 <b> ⚡ Main Repositories</b>:
 
-# 1 - projeto Yelp SQL Data Science
+# 1 - aplicação da técnica de Análise Fatorial para seguradoras
+https://github.com/sergiourzedojunior/financ_KPI.git
+## Resumo em pontos-chave sobre a Análise Fatorial (AF):
+**Objetivo:**
+* Identificar dimensões de variabilidade comuns (fatores) em um conjunto de fenômenos.
+* Desvendar estruturas existentes, mas não observáveis diretamente.
+## Passos para a análise fatorial
+1. Cálculo da matriz de correlação: nessa etapa é avaliado o grau de re- lacionamento entre as variáveis e a conveniência da aplicação da AF.
+2. Extração dos fatores: determinação do método para cálculo dos fatore e definição do número de fatores a serem extraídos. Nessa etapa, busca se descobrir o quanto o modelo escolhido é adequado para represent os dados.
+3. Rotação dos fatores: etapa na qual se busca dar maior capacidade interpretação dos fatores.
+4. Cálculo dos escores: os escores resultantes desta fase podem ser util dos em diversas outras análises (análise discriminante, cluster, regres logística etc.).
+# caso do mercado segurador brasileiro
+- objetivo: classificar as empresas seundo sua capacidade econômico-financeira
+## Resultados Análise Fatorial
+* Component_1 is: ICOM, IDAD, ILPG
+* Component_2 is: ICAP, PRPL, IALI
+* Component_3 is: ILCO, ILGE
+* Fator 1  - controle de despesas operacionais corresponde a 32,4% da variância explicada
+* Fator 2  - alavancagem corresponde a 28,8% da variância explicada
+* Fator 3  - liquidez corresponde a 23,3% da variância explicada
+![componenentes](figs/af_screeplot.png) 
+![componenentes](figs/af_fatores.png) 
+* clusters para separar empresas em grupos com a mesma característica dos indicadores
+![componenentes](figs/af_cluster.png) 
+
+# 2 - projeto Yelp SQL Data Science
 https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    ### steps
    1. https://www.yelp.com/dataset/download
@@ -54,23 +79,23 @@ https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    1. general analysis of Yelp tables (SQLite and Python) - SQLite.sql, distribuicao_diasdasemana.ipynb
    2. project to cluster star ratings of shopping centers in Santa Barbara, CA - modelo_kmeans.ipynb
 
-# 2 - modelagem de dados e profile - dados abertos (.gov) ANP - Diesel
+# 3 - modelagem de dados e profile - dados abertos (.gov) ANP - Diesel
 https://github.com/sergiourzedojunior/dados_ANP_Diesel.git
 
-# 3 - mercado_B2B_Diesel_Prophet_predições
+# 4 - mercado_B2B_Diesel_Prophet_predições
 https://github.com/sergiourzedojunior/mercado_B2B_Diesel_Prophet_predictions.git
 
-# 4 - Mercado de Usinas sucroalcooleiras paara consumo de Diesel
+# 5 - Mercado de Usinas sucroalcooleiras paara consumo de Diesel
 https://github.com/sergiourzedojunior/usinas_MAPA.git
 
-# 5 - consulting project to help segment shopping centers based on google analytics data
+# 6 - consulting project to help segment shopping centers based on google analytics data
 https://github.com/sergiourzedojunior/estab_com_clustering.git
 
 ![cluster](newplot.png)
 ![cluster_v1](newplot_v1.png)
 
 
-# 6 - department store clothing retail 
+# 7 - department store clothing retail 
 ### - database of garments and their categories, stores, geography, customers and transactions. python (VSCode) and pyspark codes (databricks) were used for the analysis
 https://github.com/sergiourzedojunior/department_store_clothing_retail.git
 
