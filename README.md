@@ -51,7 +51,7 @@ https://github.com/sergiourzedojunior/financ_KPI.git
 3. Rotação dos fatores: etapa na qual se busca dar maior capacidade interpretação dos fatores.
 4. Cálculo dos escores: os escores resultantes desta fase podem ser util dos em diversas outras análises (análise discriminante, cluster, regres logística etc.).
 # caso do mercado segurador brasileiro
-- objetivo: classificar as empresas seundo sua capacidade econômico-financeira
+- objetivo: classificar as empresas seugndo sua capacidade econômico-financeira
 ## Resultados Análise Fatorial
 * Component_1 is: ICOM, IDAD, ILPG
 * Component_2 is: ICAP, PRPL, IALI
