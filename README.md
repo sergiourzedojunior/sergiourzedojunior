@@ -59,10 +59,10 @@ https://github.com/sergiourzedojunior/financ_KPI.git
 * Fator 1  - controle de despesas operacionais corresponde a 32,4% da variância explicada
 * Fator 2  - alavancagem corresponde a 28,8% da variância explicada
 * Fator 3  - liquidez corresponde a 23,3% da variância explicada
-![componenentes](figs/af_screeplot.png) 
-![componenentes](figs/af_fatores.png) 
+![scree](af_screeplot.png) 
+![fatores](af_fatores.png) 
 * clusters para separar empresas em grupos com a mesma característica dos indicadores
-![componenentes](figs/af_cluster.png) 
+![cluster](af_cluster.png) 
 
 # 2 - projeto Yelp SQL Data Science
 https://github.com/sergiourzedojunior/yelp_sql_datascience.git
