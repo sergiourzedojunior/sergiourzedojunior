@@ -48,7 +48,7 @@ https://github.com/sergiourzedojunior/GA_DASH.git
 1. ** *GA - dados de acesso a sites das lojas**
 2. **Segmentação utilizando PCA e Kmeans para criação de dashboard analítico**
 3. **Dashboard (DASH e Plotly) - resultado dos clusters para posterior análise de time de MKT para criação de "personas" para campanhas"**
-![dash1](figs/dash1.png)
+![dash1](dash1.png)
 
 # 2 - aplicação da técnica de Análise Fatorial para seguradoras
 https://github.com/sergiourzedojunior/financ_KPI.git
