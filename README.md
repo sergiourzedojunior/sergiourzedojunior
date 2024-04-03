@@ -40,14 +40,14 @@
 <b> ⚡ Main Repositories</b>:
 ![diagram](tabela.png)
 
-## Projeto de análise de dados do Google Analytcs (GA)
+# 1 - Projeto de análise de dados do Google Analytcs (GA)
 https://github.com/sergiourzedojunior/GA_DASH.git
 1. ** *GA - dados de acesso a sites das lojas**
 2. **Segmentação utilizando PCA e Kmeans para criação de dashboard analítico**
 3. **Dashboard (DASH e Plotly) - resultado dos clusters para posterior análise de time de MKT para criação de "personas" para campanhas"**
 
 
-# 1 - aplicação da técnica de Análise Fatorial para seguradoras
+# 2 - aplicação da técnica de Análise Fatorial para seguradoras
 https://github.com/sergiourzedojunior/financ_KPI.git
 ## Resumo em pontos-chave sobre a Análise Fatorial (AF):
 **Objetivo:**
@@ -72,7 +72,7 @@ https://github.com/sergiourzedojunior/financ_KPI.git
 * clusters para separar empresas em grupos com a mesma característica dos indicadores
 ![cluster](af_cluster.png) 
 
-# 2 - projeto Yelp SQL Data Science
+# 3 - projeto Yelp SQL Data Science
 https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    ### steps
    1. https://www.yelp.com/dataset/download
@@ -87,16 +87,16 @@ https://github.com/sergiourzedojunior/yelp_sql_datascience.git
    1. general analysis of Yelp tables (SQLite and Python) - SQLite.sql, distribuicao_diasdasemana.ipynb
    2. project to cluster star ratings of shopping centers in Santa Barbara, CA - modelo_kmeans.ipynb
 
-# 3 - modelagem de dados e profile - dados abertos (.gov) ANP - Diesel
+# 4 - modelagem de dados e profile - dados abertos (.gov) ANP - Diesel
 https://github.com/sergiourzedojunior/dados_ANP_Diesel.git
 
-# 4 - mercado_B2B_Diesel_Prophet_predições
+# 5 - mercado_B2B_Diesel_Prophet_predições
 https://github.com/sergiourzedojunior/mercado_B2B_Diesel_Prophet_predictions.git
 
-# 5 - Mercado de Usinas sucroalcooleiras paara consumo de Diesel
+# 6 - Mercado de Usinas sucroalcooleiras paara consumo de Diesel
 https://github.com/sergiourzedojunior/usinas_MAPA.git
 
-# 6 - consulting project to help segment shopping centers based on google analytics data
+# 7 - consulting project to help segment shopping centers based on google analytics data
 https://github.com/sergiourzedojunior/estab_com_clustering.git
 
 ![cluster](newplot.png)
