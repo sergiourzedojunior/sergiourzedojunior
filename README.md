@@ -39,7 +39,8 @@
 
 
 <b> ⚡ Main Repositories</b>:
-![diagram](tabela.png)
+
+![diagram](scikit-learn-algorithm-cheat-sheet.png)
 
 
 # 1 - Projeto de análise de dados do Google Analytcs (GA)
